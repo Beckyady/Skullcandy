@@ -1,0 +1,64 @@
+{/* <div class="navbar">
+<a class="" href="#">Skullcandy</a> 
+  <a href="#"> SHOP</a> 
+  <a class="" href="#">DISCOVER</a> 
+  <a href="#"><i class="fa fa-fw fa-search"></i></a> 
+  <a href="#"> James<i class="fa fa-fw fa-user"></i></a> 
+  <a href="#"> 2 <i class="fa fa-fw fa-shopping-bag"></i></a>
+</div> */}
+        
+        {/* <nav className="navbar navbar-expand-lg  ">
+        
+  <a className="navbar-brand" href="#">Skullcandy</a>
+  <div className="collapse navbar-collapse" id="navbarNav">
+    <ul className="navbar-nav">
+      <li className="nav-item ">
+        <a className="nav-link" href="#">SHOP </a>
+      </li>
+      <li className="nav-item ">
+        <a className="nav-link" href="#">DISCOVER</a>
+      </li>
+      
+      <li className="nav-item ">
+        <a className="nav-link " href="#"> </a>
+      </li>
+      <li className="nav-item ">
+      
+        <a className="nav-link " href="#" >James </a>
+      </li>
+      <li className="nav-item shoppingbag">
+      
+     <a className="nav-link" href="#" >2</a>
+      </li>
+      
+    </ul>
+  </div>
+</nav> */}
+
+{/* <div className='row'>
+           <div className='.col-xs-6 .col-md-4 video'><span>#Skullfamily</span><br></br>
+        <p><span className='orange'><u><h1>Coco Ho</h1></u></span></p></div>
+            
+            <div className='.col-xs-6 .col-md-4 firstcol'>
+            
+        <div><img className='img' src={rebe}/></div>
+        
+        </div>
+            <div className='.col-xs-6 .col-md-4'>
+            <nav className='sidebar secnav'>
+        <ul class="list-unstyled navbar-nav ml-auto components">
+            
+            <li><a href="#">Intro</a></li>
+           
+            <li><a href="#">About</a></li>
+            
+            <li><a href="#">Photography</a></li>
+
+            <li><a href="#">Stories</a></li>
+            
+            <li> <a href="#">More</a></li>
+        </ul>
+        </nav> 
+            </div>
+        
+        </div> */}
